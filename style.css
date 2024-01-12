@@ -8,7 +8,8 @@ body {
     justify-content: center;
     padding: 50px;
     margin: 0;
-    background: linear-gradient(to right, #bbd2c5, #536976, #292e49);
+   /* background: linear-gradient(to right, #bbd2c5, #536976, #292e49);*/
+    background: linear-gradient(to right, #f4e9dc, #cba084);
 }
 
 .resume {
